@@ -1,3 +1,8 @@
 # ISIC-LI-23ISIC039
-# Luis Yeray Ochoa Iturbide 23ISIC039
- REPOSITORIO PARA LA GESTION DE PRACTICAS DE SISTEMAS ABIERTOS EN LA MATERIA DE LENGUAJES DE INTERFAZ
+# Lenguajes de Interfaz - Ingeniería en Sistemas Computacionales
+
+**Alumno:** Luis Yeray Ochoa Iturbide  
+**Matrícula:** 23ISIC039  
+
+## Propósito
+Este repositorio funciona como un portafolio de evidencias y espacio de trabajo técnico. Su objetivo principal es la gestión, organización y almacenamiento de las prácticas y proyectos desarrollados durante el semestre para la materia de Lenguajes de Interfaz.
