@@ -1,0 +1,19 @@
+Ciclo de Vida en Ensamblador (TASM/TLINK)
+	1. Código Fuente
+		Archivo de entrada: ejemplo.asm
+		Lógica y directivas de memoria
+	2. Ensamblador (TASM)
+		Lectura Top-Down
+		Detección de errores de sintaxis
+		Salida intermedia: ejemplo.obj (Sin direcciones absolutas)
+	3. Ligador (TLINK)
+		Cálculo de direcciones
+		Dependencia: DPMI16BI.OVL
+		Dependencia: RTM.EXE
+		Salida final: ejemplo.exe
+	4. Ejecución (Cargador / DOSBox)
+		Carga en Memoria RAM física
+		Segmentación
+			CS: Segmento de Código (Instrucciones)
+			DS: Segmento de Datos (Variables)
+			SS: Segmento de Pila (Memoria dinámica)
